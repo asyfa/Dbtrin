@@ -1,5 +1,9 @@
 <?php
 
+/*
+* Database ORM
+*/
+
 class DbTrin extends Eng{
     var $__name__ = "DbTrin";
     
